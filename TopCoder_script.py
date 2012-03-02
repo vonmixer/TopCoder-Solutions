@@ -1,7 +1,6 @@
 """This utility will read a source file containing a Topcoder problem description and then
-populate a .cpp file appropriately. It will add some common header files, a skeleton class
-with the necessary function, and the main function along with the test data from the first
-example in the problem description
+C++ code automatically. It will add some common header files, a skeleton class
+with the necessary function, and test cases from the problem description. 
 """
 
 import re
